@@ -7,6 +7,7 @@ Os arquivos "case_estados.csv" e "case_estados.json" são os arquivos resultante
 <br>
 Para executar o arquivo .py, basta que:
 - Dependências sejam já incluidas: "pip install pandas".
+- Os arquivos "HIST_PAINEL_COVIDBR_28set2020.csv" e "EstadosIBGE.csv" estejam no mesmo diretório que o script.
 - Executar o arquivo .py: "python3 Case - Hurb.py"
 <br>
 Como deixei exposto no relatório, infelizmente não consegui tempo para me adequar ao Apache Beam, mas tenho certeza que com um pouco mais de tempo 

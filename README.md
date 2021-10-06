@@ -1,7 +1,6 @@
 # Case-Hurb_Data_Engineering
 
-Neste repositório estão presentes: o relatório feito em Jupyter (Case_Hurb.ipynb), o arquivo Python para ser diretamente executado (Case_Hurb.py), 
-uma versão do relatório em HTML para uma melhor visualização (recomendo baixar e abrir no navegador!).
+Neste repositório estão presentes: o relatório feito em Jupyter (Case_Hurb.ipynb), o arquivo Python para ser diretamente executado (Case_Hurb.py).
 <br>
 Os arquivos "case_estados.csv" e "case_estados.json" são os arquivos resultantes da aplicação.
 <br>

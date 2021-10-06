@@ -12,5 +12,5 @@ Para executar o arquivo .py, basta que:
 - Os arquivos "HIST_PAINEL_COVIDBR_28set2020.csv" e "EstadosIBGE.csv" estejam no mesmo diretório que o script.
 - Executar o arquivo .py: "python3 Case_Hurb.py"
 <br>
-Como deixei exposto no relatório, infelizmente não consegui tempo para me adequar ao Apache Beam, pois realmente nunca tinha utilizado antes, mas tenho certeza que com um pouco mais de tempo 
+Como deixei exposto no relatório, infelizmente não consegui tempo para me adequar ao Apache Beam, já que realmente nunca tinha utilizado antes, mas tenho certeza que com um pouco mais de tempo 
 consigo fazer utilizando esta framework!
